@@ -1,0 +1,20 @@
+{
+  "name": "debugging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apps.js",
+  "scripts": {
+    "httpster": "./node_modules/.bin/httpster", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentsoundz/debugging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silentsoundz/debugging/issues"
+  },
+  "homepage": "https://github.com/silentsoundz/debugging#readme"
+}
